@@ -27,7 +27,7 @@ Modu³ perla Games-Dissociate.
 
 %build
 perl Makefile.PL
-make
+%{__make}
 
 %install
 rm -rf $RPM_BUILD_ROOT
