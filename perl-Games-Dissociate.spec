@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Games
-%define	pnam	Dissociate
+%define		pdir	Games
+%define		pnam	Dissociate
 Summary:	Games::Dissociate - a Dissociated Press algorithm and filter
 Summary(pl):	Games::Dissociate - algorytm i filtr "Dissociated Press"
 Name:		perl-Games-Dissociate
