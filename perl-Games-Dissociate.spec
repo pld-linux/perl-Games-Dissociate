@@ -2,8 +2,8 @@
 Summary:	Games-Dissociate perl module
 Summary(pl):	Modu³ perla Games-Dissociate
 Name:		perl-Games-Dissociate
-Version:	0.13
-Release:	2
+Version:	0.14
+Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
