@@ -5,7 +5,7 @@ Summary:	Games::Dissociate perl module
 Summary(pl):	Modu³ perla Games::Dissociate
 Name:		perl-Games-Dissociate
 Version:	0.14
-Release:	5
+Release:	6
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
