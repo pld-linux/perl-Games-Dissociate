@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Games
 %define	pnam	Dissociate
-Summary:	Games::Dissociate perl module
-Summary(pl):	Modu³ perla Games::Dissociate
+Summary:	Games::Dissociate - a Dissociated Press algorithm and filter
+Summary(pl):	Games::Dissociate - algorytm i filtr "Dissociated Press"
 Name:		perl-Games-Dissociate
 Version:	0.14
 Release:	6
@@ -17,12 +17,14 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Games::Dissociate module provides the function dissociate, which
+Games::Dissociate Perl module provides the function dissociate, which
 implements a Dissociated Press algorithm well known to Emacs users as
 "meta-x dissociate".
 
 %description -l pl
-Modu³ perla Games::Dissociate.
+Modu³ Perla Games::Dissociate udostêpnia funkcjê "dissociate", która
+implementuje algorytm "Dissociated Press", dobrze znany u¿ytkownikom
+Emacsa jako "meta-x dissociate".
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
