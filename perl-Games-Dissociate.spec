@@ -6,7 +6,7 @@
 %define		pdir	Games
 %define		pnam	Dissociate
 Summary:	Games::Dissociate - a Dissociated Press algorithm and filter
-Summary(pl.UTF-8):   Games::Dissociate - algorytm i filtr "Dissociated Press"
+Summary(pl.UTF-8):	Games::Dissociate - algorytm i filtr "Dissociated Press"
 Name:		perl-Games-Dissociate
 Version:	0.15
 Release:	1
