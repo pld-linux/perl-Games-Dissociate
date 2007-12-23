@@ -8,13 +8,13 @@
 Summary:	Games::Dissociate - a Dissociated Press algorithm and filter
 Summary(pl.UTF-8):	Games::Dissociate - algorytm i filtr "Dissociated Press"
 Name:		perl-Games-Dissociate
-Version:	0.15
+Version:	0.19
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	fc3ecec2d47fb4d180593471f1f15f3d
+# Source0-md5:	91ddf6a33e2dbe437c03af5b93397210
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildArch:	noarch
