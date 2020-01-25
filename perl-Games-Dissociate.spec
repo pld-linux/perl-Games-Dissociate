@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Games
 %define		pnam	Dissociate
 Summary:	Games::Dissociate - a Dissociated Press algorithm and filter
